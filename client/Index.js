@@ -94,7 +94,7 @@ function App() {
                     {weather.hourly.data.map(
                       (d, i) =>
                         i <= 12 && (
-                          <div style={hourlyStyle}>
+                          <div key={`hourly-div-${i}`} style={hourlyStyle}>
                             {i === 0 ? (
                               <b>Now</b>
                             ) : (
