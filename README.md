@@ -8,9 +8,9 @@ Coded up this example in roughly an hour more as a proof-of-concept using DarkSk
 Could certainly use some UI touches, color, reponsive sizing, etc.
 
 Packages:
-Moment for UNIX time formatting
-Font Awesome for weather icons
-Axios to call backend server
-Express on backend
-DotEnv for environment variables
-Request for HTTP client
+-Moment for UNIX time formatting
+-Font Awesome for weather icons
+-Axios to call backend server
+-Express on backend
+-DotEnv for environment variables
+-Request for HTTP client
