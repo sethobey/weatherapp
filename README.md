@@ -7,6 +7,8 @@ https://codesandbox.io/s/blissful-mirzakhani-hmde9?fontsize=14
 Coded up this example in roughly an hour more as a proof-of-concept using DarkSky API than anything else.
 Could certainly use some UI touches, color, reponsive sizing, etc.
 
+The data provided on codesandbox is a JSON file copy of a typical DarkSkyAPI response. 
+
 Packages:
 -Moment for UNIX time formatting
 -Font Awesome for weather icons
